@@ -1,5 +1,5 @@
 @import "config";
-
+@import "menu";
 * {
   box-sizing: border-box;
 }
@@ -17,6 +17,7 @@ body {
 header {
   position: fixed;
   z-index: 2;
+  width: 100%;
 }
 
 //headings
