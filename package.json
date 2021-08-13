@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "Responsive portfolio",
   "main": "index.js",
-  "homepage":"https://isha12.github.io/portfolio_website",
+  "homepage": "https://isha614.github.io/Personal-Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Isha Mehta",
   "license": "MIT",
