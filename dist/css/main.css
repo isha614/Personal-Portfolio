@@ -359,13 +359,12 @@ main {
     width: 70%;
     position: relative; }
   .about-info {
-    text-align: center; }
+    text-align: center;
+    margin: auto; }
   .bio {
     width: 60%; }
   .bio p {
     font-size: 1rem; }
-  .about-info {
-    margin: auto; }
   .about-info .skillsSection {
     width: 50%; }
   .about-info .skillsSection .skillName {
