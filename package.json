@@ -11,7 +11,7 @@
   "author": "Isha Mehta",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^6.0.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
