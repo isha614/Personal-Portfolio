@@ -2,4 +2,5 @@
 
 **Portfolio** using **ReactJS**.
 <br/>
-Tells about myself - **Education**, **Projects**, **Skills**, **Achievements**
+Tells about myself - 
+INCLUDES **Education**, **Projects**, **Skills**, **Achievements**
