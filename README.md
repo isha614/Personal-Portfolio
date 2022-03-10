@@ -2,5 +2,6 @@
 
 **Portfolio** using **Node SASS**.
 <br/>
-Tells about myself - 
+Tells about me - 
 INCLUDES **Education**, **Projects**, **Skills**, **Achievements**
+INCLUDES **Brief INTRODUCTION**
